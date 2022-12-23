@@ -1,5 +1,5 @@
 # 💫 About Me:
-Reactjs<br>Reactjs<br>javascript,Reactnative<br>javascript
+I'm currently working on Reactjs<br> I'm looking to collaborate on Reactjs<br>I'm currently working on javascript,Reactnative<br>Ask me about javascript
 
 
 ## 🌐 Socials:
